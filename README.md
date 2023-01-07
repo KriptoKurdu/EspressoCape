@@ -3,9 +3,8 @@
 ```
 wsl --install
 ```
-```
+
 [Docker indir](https://docs.docker.com/desktop/install/windows-install/)
-```
 ```
 wsl
 ```
